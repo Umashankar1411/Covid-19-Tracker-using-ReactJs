@@ -2,10 +2,12 @@
 
 - Create WireFame🚀 😊
 - Create React App🚀 😊
-- Cleanup project🚀 
-- Structure of Covid Tracker🚀
-- 
--   😊😊
-- 
-- 
-- 
+- Cleanup project🚀 😊
+- Structure of Covid Tracker🚀 😊
+- Create Header 🚀 😊
+- Create InfoBoxes 🚀 😊
+- Create Table 🚀 😊
+- Create Chart🚀 😊
+- Do Styling🚀 😊
+- Upload to Github🚀 😊
+- Deploy to Firebase🚀 😊

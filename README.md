@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ Created By [Umashankar Pandey](https:umashankar-pandey-portfolio.netlify.app)
+ 
+ Live Demo [Here 👇](https://covid-19-tracker-36943.web.app/)
+(LIVE)[(https://covid-19-tracker-36943.web.app/]
+
+Created By Umashankar Pandey
+
 ## Available Scripts
 
 In the project directory, you can run:
